@@ -8,4 +8,4 @@ My name is Yanbo Chen (陈彦伯). I am a first-year Ph.D. student at Chinese Un
 
 ## Publications
 
-Half-Aggregation of Schnorr Signatures with Tight Reductions. Yanbo Chen, Yunlei Zhao. To appear in *ESORICS 2022*. [[pdf](chen-yan-bo.github.io/files/2022_agg.pdf)].
+Half-Aggregation of Schnorr Signatures with Tight Reductions. Yanbo Chen, Yunlei Zhao. To appear in *ESORICS 2022*. [[pdf](http://chen-yan-bo.github.io/files/2022_agg.pdf)].
