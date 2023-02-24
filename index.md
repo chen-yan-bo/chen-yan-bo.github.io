@@ -12,6 +12,6 @@ My name is Yanbo Chen (陈彦伯). I am a first-year Ph.D. student at University
 
 <!-- [The full list of my publications](./full_list.html). -->
 
-Half-Aggregation of Schnorr Signatures with Tight Reductions. Yanbo Chen, Yunlei Zhao. *ESORICS 2022*. [[pdf](http://chen-yan-bo.github.io/files/2022_agg.pdf)].
+Half-Aggregation of Schnorr Signatures with Tight Reductions. Yanbo Chen, Yunlei Zhao. *ESORICS 2022*. [[pdf](http://yanbo-chen.github.io/files/2022_agg.pdf)].
 
 DualMS: Efficient Lattice-Based Two-Round Multi-Signature with Trapdoor-Free Simulation. Yanbo Chen. [[eprint](https://eprint.iacr.org/2023/263)].
