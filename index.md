@@ -4,7 +4,7 @@ layout: homepage
 
 <!-- ## About Me -->
 
-<img align="right" width="42%" hspace="10" src="./imgs/my_photo_2.JPG">
+<img align="right" width="42%" hspace="10" src="./imgs/my_photo_2.jpg">
 
 My name is Yanbo Chen (陈彦伯). I am a second-year Ph.D. student at the University of Ottawa. My supervisor is [Andrej Bogdanov](https://andrejb.net/). I spent one semester with the Chinese University of Hong Kong before I came to Ottawa. I received my B.Sc. in Computer Science and Technology in 2021 from Fudan University, where I also worked for one year as a research assistant host by Yunlei Zhao. My research interests are mainly in cryptography.
 
