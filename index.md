@@ -18,6 +18,8 @@ Half-Aggregation of Schnorr Signatures with Tight Reductions. Yanbo Chen, Yunlei
 
 ## Teaching
 
+[CSI 4103/5138: Great Algorithms (Fall 2024)](https://andrejb.net/csi4103/), at uOttawa. Corrector.
+
 [CSI 2101: Discrete Structures (Winter 2024)](https://andrejb.net/csi2101/), at uOttawa. Teaching assistant.
 
 CSCI 3130: Formal Languages and Automata Theory (Fall 2022), at CUHK. Teaching assistant.
